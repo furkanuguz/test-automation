@@ -1,0 +1,9 @@
+2020-11-24 12:07:40 INFO  ProductTest - Site Anasayfasına giriş yapıldı  Chrome  
+2020-11-24 12:07:56 INFO  ProductTest - Login işlemi başarılı  Chrome  
+2020-11-24 12:08:23 INFO  ProductTest - Aratılan ile sonuç eşdeğer  Chrome  
+2020-11-24 12:08:29 INFO  ProductTest - Açılmak istenen 2. Sayfanın açıldığı teyit edildi.  Chrome  
+2020-11-24 12:08:29 INFO  ProductTest - Ürün beğeniler listesine eklenildi  Chrome  
+2020-11-24 12:08:36 INFO  ProductTest - Favorilere eklenen ürün doğruluğu kontrol edildi.  Chrome  
+2020-11-24 12:08:45 INFO  ProductTest - Favorilerden ürün başarı ile silindi  Chrome  
+2020-11-24 12:08:54 INFO  ProductTest - Logout işlemi başarılı  Chrome  
+2020-11-24 12:08:54 INFO  ProductTest - PASSED  Chrome  
